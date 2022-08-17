@@ -1,2 +1,4 @@
-package org.core;public class Circle {
+package org.core;
+
+public class Circle {
 }

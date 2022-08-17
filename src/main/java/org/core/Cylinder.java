@@ -1,2 +1,4 @@
-package org.core;public class Cylinder {
+package org.core;
+
+public class Cylinder {
 }
